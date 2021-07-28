@@ -8,7 +8,7 @@ function TermsPage() {
         support email here]!
       </p>
 
-      <h2>Do you offer refunds?</h2>
+      <h2>Do you offer refunds Rod?</h2>
       <p>
         Refunds are only offered to customers that receive the wrong items or
         damaged items. If any of these apply, please contact us at [insert your
